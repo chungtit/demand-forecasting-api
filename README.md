@@ -26,7 +26,7 @@ This project provides a demand forecasting API using FastAPI and ARIMA model. It
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/chungtit/demand-forecasting.git
+   https://github.com/chungtit/demand-forecasting-api.git
    cd demand-forecasting
    ```
 2. **Install dependencies**:
